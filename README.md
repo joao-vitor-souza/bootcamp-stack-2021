@@ -82,7 +82,7 @@ docker run --name mysqlbd1 -e MYSQL_ROOT_PASSWORD=bootcamp -p "3307:3306" -d mys
   docker start mysqldb1 airflow minio
   ```
   
-  >Agora você precisará verificar a conexão com o banco de dados, criar os buckets do MinIO e definir as variáveis de ambiente do Airflow. Mas não se desespere, tudo está explicado passo a passo no [PDF Aula 02](https://github.com/joao-vitor-souza/Human-Resource-Analytics-Bootcamp-Stack-2021/blob/main/pdf_aulas/Aula%2002.pdf).
+  >Agora você precisará verificar a conexão com o banco de dados, criar os buckets do MinIO e definir as variáveis de ambiente do Airflow, tudo está explicado passo a passo no PDF da Aula 02 na pasta `pdf_aulas`.
 
   ---
   
