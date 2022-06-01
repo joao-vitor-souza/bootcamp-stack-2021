@@ -11,7 +11,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-<img src="https://img.shields.io/github/issues-raw/joao-vitor-souza/Human-Resource-Analytics-Bootcamp-Stack-2021?style=flat-square"> <img src="https://img.shields.io/github/license/joao-vitor-souza/Human-Resource-Analytics-Bootcamp-Stack-2021?style=flat-square"> <img src="https://img.shields.io/github/languages/count/joao-vitor-souza/Human-Resource-Analytics-Bootcamp-Stack-2021?style=flat-square">
+<img src="https://img.shields.io/github/license/joao-vitor-souza/bootcamp-stack-2021?style=flat-square"> <img src="https://img.shields.io/github/languages/count/joao-vitor-souza/bootcamp-stack-2021?style=flat-square">
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/psf/black)
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF26jZ3QdJQcg/company-logo_200_200/0/1624621563131?e=2147483647&v=beta&t=_ZCPRmKX4seKsn2lNkJ3GZI52xIPpE07_iOVZcv7xR4" width=130px height=130px align="right">
